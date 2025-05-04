@@ -1,0 +1,13 @@
+{
+    "mcpServers": {
+        "weather": {
+            "command": "/opt/homebrew/bin/uv",
+            "args": [
+                "--directory",
+                "/Users/sandeepnidumukkala/weather",
+                "run",
+                "weather.py"
+            ]
+        }
+    }
+}
